@@ -1,4 +1,4 @@
-## Olá eu sou a Leonardo eliezer, estudante do IFPR aprendendo conteúdo de programação e tecnologia!
+## Olá eu sou o Leonardo eliezer, estudante do IFPR aprendendo conteúdo de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/LD-Eliezer">
