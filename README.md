@@ -1,5 +1,5 @@
 ## Olá eu sou o Leonardo eliezer, estudante do IFPR aprendendo conteúdo de programação e tecnologia!
-<img align="right" height=170 width=170 src="https://media.giphy.com/media/QL9SOYTN2wkP02m69a/giphy.gif">
+<img align="right" height=100 width=100 src="https://media.giphy.com/media/QL9SOYTN2wkP02m69a/giphy.gif">
 <div align="center">
   <a href="https://github.com/LD-Eliezer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ld-eliezer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
